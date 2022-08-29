@@ -1,0 +1,15 @@
+/* We may change the color scheme, I was trying to keep it close to their original colors */
+
+
+:root {
+    --brown: #37281E;
+    --grey: #C2C0BC;
+    --leather: #BB8D69;
+    --reddishbrown: #926456;
+    --slate: #CCCBC6;
+}
+
+/* .profile {
+    color: var(--brown);
+} */
+
